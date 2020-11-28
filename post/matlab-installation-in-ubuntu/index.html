@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+    
+        <meta name="twitter:card" content="summary"/>
+    
+
+
+
+<meta name="twitter:title" content="MATLAB installation in Ubuntu (Ubuntu 20.04.1 LTS)"/>
+<meta name="twitter:description" content=""/>
+<meta name="twitter:site" content="@DaWeiLin4"/>
+
+
+
+  	<meta property="og:title" content="MATLAB installation in Ubuntu (Ubuntu 20.04.1 LTS) &middot; DW Blog" />
+  	<meta property="og:site_name" content="DW Blog" />
+  	<meta property="og:url" content="https://dwgoblue.github.io/post/matlab-installation-in-ubuntu/" />
+
+    
+        
+            <meta property="og:image" content="/images/cover.jpg"/>
+        
+    
+
+    
+    <meta property="og:description" content="" />
+  	<meta property="og:type" content="article" />
+    <meta property="article:published_time" content="2020-11-25T23:59:13-06:00" />
+
+    
+    <meta property="article:tag" content="matlab" />
+    
+    <meta property="article:tag" content="programming" />
+    
+    <meta property="article:tag" content="ubuntu" />
+    
+    
+
+    <title>MATLAB installation in Ubuntu (Ubuntu 20.04.1 LTS) &middot; DW Blog</title>
+
+    
+    <meta name="description" content="MATLAB installation in Ubuntu (Ubuntu 20.04.1 LTS) Overview MATLAB is a powerful programming language/software when it comes to matrix computing. Although it is" />
+    
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="https://dwgoblue.github.io/images/favicon.ico">
+	  <link rel="apple-touch-icon" href="https://dwgoblue.github.io/images/apple-touch-icon.png" />
+
+    <link rel="stylesheet" type="text/css" href="https://dwgoblue.github.io/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="https://dwgoblue.github.io/css/nav.css" />
+
+    
+
+    
+
+    
+      
+          <link href="https://dwgoblue.github.io/index.xml" rel="alternate" type="application/rss+xml" title="DW Blog" />
+      
+      
+    
+    <meta name="generator" content="Hugo 0.68.3" />
+
+    <link rel="canonical" href="https://dwgoblue.github.io/post/matlab-installation-in-ubuntu/" />
+
+    
+      
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name":  null ,
+        "logo": "https://dwgoblue.github.io/images/signature.png"
+    },
+    "author": {
+        "@type": "Person",
+        "name":  null ,
+        
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://dwgoblue.github.io/images/signature.png",
+            "width": 250,
+            "height": 250
+        }, 
+        
+        "url":  null ,
+        "sameAs": [
+            
+            
+             
+             
+             
+             
+             
+            
+        ]
+    },
+    "headline": "MATLAB installation in Ubuntu (Ubuntu 20.04.1 LTS)",
+    "name": "MATLAB installation in Ubuntu (Ubuntu 20.04.1 LTS)",
+    "wordCount":  258 ,
+    "timeRequired": "PT2M",
+    "inLanguage": {
+      "@type": "Language",
+      "alternateName": "en"
+    },
+    "url": "https://dwgoblue.github.io/post/matlab-installation-in-ubuntu/",
+    "datePublished": "2020-11-25T23:59Z",
+    "dateModified": "2020-11-25T23:59Z",
+    
+    "keywords": "matlab, programming, ubuntu",
+    "description": "",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://dwgoblue.github.io/post/matlab-installation-in-ubuntu/"
+    }
+}
+    </script>
+    
+
+
+    
+
+    
+
+    
+</head>
+<body class="nav-closed">
+
+  <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        
+        
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://dwgoblue.github.io/">Home</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://dwgoblue.github.io/post">Blog</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://dwgoblue.github.io/about">About me</a>
+            </li>
+        
+        
+    </ul>
+
+    
+    <a class="subscribe-button icon-feed" href="https://dwgoblue.github.io/index.xml">Subscribe</a>
+    
+</div>
+<span class="nav-cover"></span>
+
+
+ <div class="site-wrapper">
+
+
+
+<header class="main-header post-head no-cover">
+  <nav class="main-nav clearfix">
+
+
+  
+      <a class="blog-logo" href="https://dwgoblue.github.io/"><img src="https://dwgoblue.github.io/images/signature.png" alt="Home" /></a>
+  
+  
+      <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
+  
+  </nav>
+</header>
+
+
+
+<main class="content" role="main">
+
+
+
+
+  <article class="post post">
+
+    <header class="post-header">
+        <h1 class="post-title">MATLAB installation in Ubuntu (Ubuntu 20.04.1 LTS)</h1>
+        <small></small>
+
+        <section class="post-meta">
+        
+          <time class="post-date" datetime="2020-11-25T23:59:13-06:00">
+            Nov 25, 2020
+          </time>
+        
+         
+          <span class="post-tag small"><a href="https://dwgoblue.github.io//tags/matlab/">#matlab</a></span>
+         
+          <span class="post-tag small"><a href="https://dwgoblue.github.io//tags/programming/">#programming</a></span>
+         
+          <span class="post-tag small"><a href="https://dwgoblue.github.io//tags/ubuntu/">#ubuntu</a></span>
+         
+        </section>
+    </header>
+
+    <section class="post-content">
+      <h1 id="matlab-installation-in-ubuntu-ubuntu-20041-lts">MATLAB installation in Ubuntu (Ubuntu 20.04.1 LTS)</h1>
+<h2 id="overview">Overview</h2>
+<p>MATLAB is a powerful programming language/software when it comes to matrix computing. Although it is not a open-source software, as a bioinformatician, I still need to use it sometimes for my research. In this blog, I will introduce how to install MATLAB in your local machine with Ubuntu as your OS.</p>
+<h2 id="procedure">Procedure</h2>
+<p>Firstly, we have to download a version of MATLAB that is suitable for your work and your hardware. In my case, I downloaded R2020b for my computer. The link for download can be found <a href="https://www.mathworks.com/downloads/web_downloads/download_release?release=R2020b">here</a>.</p>
+<p>After getting the files from the MATLAB official website, we could applied the command <code>unzip</code> in Ubuntu terminal.</p>
+<pre><code>unzip -X -K matlab_R2020a_glnxa64.zip -d matlab_2020a_installer
+</code></pre><p>Next, we should open the MATLAB installer and type the command below in Ubuntu terminal.</p>
+<pre><code>sudo su
+sudo ./install
+</code></pre><p>Applying these commands should activate the installer which is supposed to pop out as either graph-user interface or text-based interface.</p>
+<p>Noted that you will be asking to provide a username and a license to proceed the installation. The username should be the same as the username in your local computer. Otherwise, it would warn you that the name does not match the one running in your local machine.</p>
+<p>To activate the MATLAB program, in my case, I had to execute <code>activate_matlab.sh</code> by</p>
+<pre><code>cd /usr/local/MATLAB/R2020b/bin/
+bash activate_matlab.sh
+</code></pre><p>Then, the initiating process will ask you to provide essential information like we did for installation again.</p>
+<p>Finally, type <code>matlab</code> in your terminal to run your MATLAB.</p>
+<h2 id="reference">Reference</h2>
+<ol>
+<li><a href="https://www.mathworks.com/matlabcentral/answers/518584-how-do-i-install-on-ubuntu">How do I install on Ubuntu?</a></li>
+</ol>
+
+    </section>
+
+
+  <footer class="post-footer">
+
+
+    
+
+
+
+
+
+
+
+
+<figure class="author-image">
+    <a class="img" href="https://dwgoblue.github.io/" style="background-image: url(/images/signature.png)"><span class="hidden">Da-Wei Lin's Picture</span></a>
+</figure>
+
+
+<section class="author">
+  <h4><a href="https://dwgoblue.github.io/">Da-Wei Lin</a></h4>
+  
+  <p>Read <a href="https://dwgoblue.github.io/">more posts</a> by this author.</p>
+  
+  <div class="author-meta">
+    <span class="author-location icon-location">Ann Arbor, MI, USA</span>
+    
+  </div>
+</section>
+
+
+
+
+    
+<section class="share">
+  <h4>Share this post</h4>
+  <a class="icon-twitter" style="font-size: 1.4em" href="https://twitter.com/share?text=MATLAB%20installation%20in%20Ubuntu%20%28Ubuntu%2020.04.1%20LTS%29&nbsp;-&nbsp;DW%20Blog&amp;url=https%3a%2f%2fdwgoblue.github.io%2fpost%2fmatlab-installation-in-ubuntu%2f"
+      onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+      <span class="hidden">Twitter</span>
+  </a>
+  <a class="icon-facebook" style="font-size: 1.4em" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fdwgoblue.github.io%2fpost%2fmatlab-installation-in-ubuntu%2f"
+      onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+      <span class="hidden">Facebook</span>
+  </a>
+  <a class="icon-pinterest" style="font-size: 1.4em" href="http://pinterest.com/pin/create/button/?url=https%3a%2f%2fdwgoblue.github.io%2fpost%2fmatlab-installation-in-ubuntu%2f&amp;description=MATLAB%20installation%20in%20Ubuntu%20%28Ubuntu%2020.04.1%20LTS%29"
+      onclick="window.open(this.href, 'pinterest-share','width=580,height=296');return false;">
+      <span class="hidden">Pinterest</span>
+  </a>
+  <a class="icon-google-plus" style="font-size: 1.4em" href="https://plus.google.com/share?url=https%3a%2f%2fdwgoblue.github.io%2fpost%2fmatlab-installation-in-ubuntu%2f"
+     onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+      <span class="hidden">Google+</span>
+  </a>
+</section>
+
+
+
+    
+
+
+
+
+
+
+
+  </footer>
+</article>
+
+</main>
+
+
+  <aside class="read-next">
+  
+      <a class="read-next-story" style="no-cover" href="https://dwgoblue.github.io/post/jupyterlab-on-linux-server/">
+          <section class="post">
+              <h2>Jupyterlab on Linux Server</h2>
+              
+          </section>
+      </a>
+  
+  
+      <a class="read-next-story prev" style="no-cover" href="https://dwgoblue.github.io/post/oxygen-regulates-human-pluripotent-stem-cell-metabolic-flux/">
+          <section class="post">
+              <h2>Oxygen Regulates Human Pluripotent Stem Cell Metabolic Flux</h2>
+          </section>
+      </a>
+  
+</aside>
+
+
+
+    <footer class="site-footer clearfix">
+        <section class="copyright"><a href="">DW Blog</a> © All rights reserved - 2020</section>
+        
+        <section class="poweredby">Proudly generated by <a class="icon-hugo" href="http://gohugo.io">HUGO</a>, with <a class="icon-theme" href="https://github.com/vjeantet/hugo-theme-casper">Casper</a> theme</section>
+        
+    </footer>
+    </div>
+    <script type="text/javascript" src="https://dwgoblue.github.io/js/jquery.js"></script>
+    <script type="text/javascript" src="https://dwgoblue.github.io/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="https://dwgoblue.github.io/js/index.js"></script>
+    
+</body>
+</html>
+
