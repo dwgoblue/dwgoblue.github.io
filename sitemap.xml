@@ -3,68 +3,88 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dwgoblue.github.io/tags/jupyter/</loc>
-    <lastmod>2020-11-26T16:29:38-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dwgoblue.github.io/post/jupyterlab-on-linux-server/</loc>
-    <lastmod>2020-11-26T16:29:38-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dwgoblue.github.io/post/</loc>
-    <lastmod>2020-11-26T16:29:38-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dwgoblue.github.io/tags/programming/</loc>
-    <lastmod>2020-11-26T16:29:38-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dwgoblue.github.io/tags/</loc>
-    <lastmod>2020-11-26T16:29:38-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dwgoblue.github.io/tags/ubuntu/</loc>
-    <lastmod>2020-11-26T16:29:38-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dwgoblue.github.io/tags/matlab/</loc>
-    <lastmod>2020-11-25T23:59:13-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dwgoblue.github.io/post/matlab-installation-in-ubuntu/</loc>
-    <lastmod>2020-11-25T23:59:13-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dwgoblue.github.io/tags/metabolomics/</loc>
-    <lastmod>2020-11-25T23:59:13-05:00</lastmod>
+    <lastmod>2021-01-20T02:51:49-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://dwgoblue.github.io/post/oxygen-regulates-human-pluripotent-stem-cell-metabolic-flux/</loc>
-    <lastmod>2020-11-25T23:59:13-05:00</lastmod>
+    <lastmod>2021-01-20T02:51:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dwgoblue.github.io/post/</loc>
+    <lastmod>2021-01-20T02:51:49-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://dwgoblue.github.io/tags/quantbio/</loc>
-    <lastmod>2020-11-25T23:59:13-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dwgoblue.github.io/tags/research/</loc>
-    <lastmod>2020-11-25T23:59:13-05:00</lastmod>
+    <lastmod>2021-01-20T02:51:49-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://dwgoblue.github.io/tags/stemcell/</loc>
-    <lastmod>2020-11-25T23:59:13-05:00</lastmod>
+    <lastmod>2021-01-20T02:51:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dwgoblue.github.io/tags/</loc>
+    <lastmod>2021-01-20T02:51:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dwgoblue.github.io/tags/matlab/</loc>
+    <lastmod>2021-01-20T02:50:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dwgoblue.github.io/post/matlab-installation-in-ubuntu/</loc>
+    <lastmod>2021-01-20T02:50:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dwgoblue.github.io/tags/programming/</loc>
+    <lastmod>2021-01-20T02:50:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dwgoblue.github.io/tags/ubuntu/</loc>
+    <lastmod>2021-01-20T02:50:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dwgoblue.github.io/tags/os/</loc>
+    <lastmod>2021-01-20T02:49:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dwgoblue.github.io/post/ubuntu-notes/</loc>
+    <lastmod>2021-01-20T02:49:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dwgoblue.github.io/tags/jupyter/</loc>
+    <lastmod>2021-01-20T02:48:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dwgoblue.github.io/post/jupyterlab-on-linux-server/</loc>
+    <lastmod>2021-01-20T02:48:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dwgoblue.github.io/post/chinese-input-methods-for-ubuntu/</loc>
+    <lastmod>2020-12-20T02:36:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dwgoblue.github.io/tags/input-method/</loc>
+    <lastmod>2020-12-20T02:36:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dwgoblue.github.io/tags/linux/</loc>
+    <lastmod>2020-12-20T02:36:01-05:00</lastmod>
   </url>
   
   <url>
@@ -93,7 +113,7 @@
   </url>
   
   <url>
-    <loc>https://dwgoblue.github.io/tags/website/</loc>
+    <loc>https://dwgoblue.github.io/tags/webpage/</loc>
     <lastmod>2020-02-08T22:07:46+08:00</lastmod>
   </url>
   

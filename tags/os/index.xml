@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>os on DW Blog</title>
+    <link>https://dwgoblue.github.io/tags/os/</link>
+    <description>Recent content in os on DW Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© All rights reserved - 2020</copyright>
+    <lastBuildDate>Wed, 20 Jan 2021 02:49:40 -0500</lastBuildDate>
+    
+	<atom:link href="https://dwgoblue.github.io/tags/os/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ubuntu Notes (keep updating)</title>
+      <link>https://dwgoblue.github.io/post/ubuntu-notes/</link>
+      <pubDate>Wed, 20 Jan 2021 02:49:40 -0500</pubDate>
+      
+      <guid>https://dwgoblue.github.io/post/ubuntu-notes/</guid>
+      <description>Overview Installation Issues Reference   Overview Ubuntu is a Linux distribution which is an open-source operating system. Compared to other operating systems, Linux supported by a group of qualified developers offers stable and secure but flexible system for users. In other words, users can customize the OS with any open-source software and modifications of OS itself. Because it does not track any digital footprint, Linux is hard to be hacked by using backdoor and infected by virus.</description>
+    </item>
+    
+    <item>
+      <title>Chinese Input Methods for Ubuntu</title>
+      <link>https://dwgoblue.github.io/post/chinese-input-methods-for-ubuntu/</link>
+      <pubDate>Sun, 20 Dec 2020 02:36:01 -0500</pubDate>
+      
+      <guid>https://dwgoblue.github.io/post/chinese-input-methods-for-ubuntu/</guid>
+      <description>Overview Popular input methods Installation for iBus chewing Issues Additional Reference  Overview As a Taiwanese, Chinese input methods are essential for my daily communication with my friends and family. I used to type Chinese/Mandarin with Microsoft Chinese Pinyin input that is quite good for me. Unfortunately, there is no any alternaltive that has the same performance in Ubuntu or other Linux distro. Reluctantly, we will introduce popular input methods working fine on Ubuntu in this blog, and I will provide the way I followed to install and configure the methods.</description>
+    </item>
+    
+  </channel>
+</rss>

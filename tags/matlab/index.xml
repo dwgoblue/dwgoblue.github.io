@@ -7,15 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© All rights reserved - 2020</copyright>
-    <lastBuildDate>Wed, 25 Nov 2020 23:59:13 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jan 2021 02:50:19 -0500</lastBuildDate>
     
 	<atom:link href="https://dwgoblue.github.io/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>MATLAB installation in Ubuntu (Ubuntu 20.04.1 LTS)</title>
+      <title>Matlab Installation in Ubuntu (Ubuntu 20.04.1 LTS)</title>
       <link>https://dwgoblue.github.io/post/matlab-installation-in-ubuntu/</link>
-      <pubDate>Wed, 25 Nov 2020 23:59:13 -0600</pubDate>
+      <pubDate>Wed, 20 Jan 2021 02:50:19 -0500</pubDate>
       
       <guid>https://dwgoblue.github.io/post/matlab-installation-in-ubuntu/</guid>
       <description>MATLAB installation in Ubuntu (Ubuntu 20.04.1 LTS) Overview MATLAB is a powerful programming language/software when it comes to matrix computing. Although it is not a open-source software, as a bioinformatician, I still need to use it sometimes for my research. In this blog, I will introduce how to install MATLAB in your local machine with Ubuntu as your OS.

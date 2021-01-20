@@ -7,28 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© All rights reserved - 2020</copyright>
-    <lastBuildDate>Thu, 26 Nov 2020 16:29:38 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jan 2021 02:50:19 -0500</lastBuildDate>
     
 	<atom:link href="https://dwgoblue.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Jupyterlab on Linux Server</title>
-      <link>https://dwgoblue.github.io/post/jupyterlab-on-linux-server/</link>
-      <pubDate>Thu, 26 Nov 2020 16:29:38 -0500</pubDate>
-      
-      <guid>https://dwgoblue.github.io/post/jupyterlab-on-linux-server/</guid>
-      <description>Jupyterlab on linux server  Overview Installation Virtual environment Issues Reference   Overview Jupyterlab is a lightweight but comprehensive and full-development IDE. In addition to write scripts with nice highlights syntax for Python and R as I know, the notebook is probably the most well-known feature with which users are able to write codes along with markdown-style notes. Besides, if you are a user who tends to install as less softwares/packages on your local machine as possible, running Jupyterlab on remote server may be suitable for you.</description>
-    </item>
-    
-    <item>
-      <title>MATLAB installation in Ubuntu (Ubuntu 20.04.1 LTS)</title>
+      <title>Matlab Installation in Ubuntu (Ubuntu 20.04.1 LTS)</title>
       <link>https://dwgoblue.github.io/post/matlab-installation-in-ubuntu/</link>
-      <pubDate>Wed, 25 Nov 2020 23:59:13 -0600</pubDate>
+      <pubDate>Wed, 20 Jan 2021 02:50:19 -0500</pubDate>
       
       <guid>https://dwgoblue.github.io/post/matlab-installation-in-ubuntu/</guid>
       <description>MATLAB installation in Ubuntu (Ubuntu 20.04.1 LTS) Overview MATLAB is a powerful programming language/software when it comes to matrix computing. Although it is not a open-source software, as a bioinformatician, I still need to use it sometimes for my research. In this blog, I will introduce how to install MATLAB in your local machine with Ubuntu as your OS.
 Procedure Firstly, we have to download a version of MATLAB that is suitable for your work and your hardware.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu Notes (keep updating)</title>
+      <link>https://dwgoblue.github.io/post/ubuntu-notes/</link>
+      <pubDate>Wed, 20 Jan 2021 02:49:40 -0500</pubDate>
+      
+      <guid>https://dwgoblue.github.io/post/ubuntu-notes/</guid>
+      <description>Overview Installation Issues Reference   Overview Ubuntu is a Linux distribution which is an open-source operating system. Compared to other operating systems, Linux supported by a group of qualified developers offers stable and secure but flexible system for users. In other words, users can customize the OS with any open-source software and modifications of OS itself. Because it does not track any digital footprint, Linux is hard to be hacked by using backdoor and infected by virus.</description>
+    </item>
+    
+    <item>
+      <title>Jupyterlab on Linux Server</title>
+      <link>https://dwgoblue.github.io/post/jupyterlab-on-linux-server/</link>
+      <pubDate>Wed, 20 Jan 2021 02:48:58 -0500</pubDate>
+      
+      <guid>https://dwgoblue.github.io/post/jupyterlab-on-linux-server/</guid>
+      <description>Jupyterlab on linux server  Overview Installation Virtual environment Issues Reference   Overview Jupyterlab is a lightweight but comprehensive and full-development IDE. In addition to write scripts with nice highlights syntax for Python and R as I know, the notebook is probably the most well-known feature with which users are able to write codes along with markdown-style notes. Besides, if you are a user who tends to install as less softwares/packages on your local machine as possible, running Jupyterlab on remote server may be suitable for you.</description>
     </item>
     
   </channel>
